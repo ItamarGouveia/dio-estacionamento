@@ -1,0 +1,15 @@
+/home/itamar/c#/dio-estacionamento/DesafioEstacionamento/bin/Debug/net6.0/DesafioEstacionamento
+/home/itamar/c#/dio-estacionamento/DesafioEstacionamento/bin/Debug/net6.0/DesafioEstacionamento.deps.json
+/home/itamar/c#/dio-estacionamento/DesafioEstacionamento/bin/Debug/net6.0/DesafioEstacionamento.runtimeconfig.json
+/home/itamar/c#/dio-estacionamento/DesafioEstacionamento/bin/Debug/net6.0/DesafioEstacionamento.dll
+/home/itamar/c#/dio-estacionamento/DesafioEstacionamento/bin/Debug/net6.0/DesafioEstacionamento.pdb
+/home/itamar/c#/dio-estacionamento/DesafioEstacionamento/obj/Debug/net6.0/DesafioEstacionamento.csproj.AssemblyReference.cache
+/home/itamar/c#/dio-estacionamento/DesafioEstacionamento/obj/Debug/net6.0/DesafioEstacionamento.GeneratedMSBuildEditorConfig.editorconfig
+/home/itamar/c#/dio-estacionamento/DesafioEstacionamento/obj/Debug/net6.0/DesafioEstacionamento.AssemblyInfoInputs.cache
+/home/itamar/c#/dio-estacionamento/DesafioEstacionamento/obj/Debug/net6.0/DesafioEstacionamento.AssemblyInfo.cs
+/home/itamar/c#/dio-estacionamento/DesafioEstacionamento/obj/Debug/net6.0/DesafioEstacionamento.csproj.CoreCompileInputs.cache
+/home/itamar/c#/dio-estacionamento/DesafioEstacionamento/obj/Debug/net6.0/DesafioEstacionamento.dll
+/home/itamar/c#/dio-estacionamento/DesafioEstacionamento/obj/Debug/net6.0/refint/DesafioEstacionamento.dll
+/home/itamar/c#/dio-estacionamento/DesafioEstacionamento/obj/Debug/net6.0/DesafioEstacionamento.pdb
+/home/itamar/c#/dio-estacionamento/DesafioEstacionamento/obj/Debug/net6.0/DesafioEstacionamento.genruntimeconfig.cache
+/home/itamar/c#/dio-estacionamento/DesafioEstacionamento/obj/Debug/net6.0/ref/DesafioEstacionamento.dll
